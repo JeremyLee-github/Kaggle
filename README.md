@@ -1,9 +1,8 @@
 # Kaggle
 
-# Kaggle-ID: gogojeremy
+## Kaggle-ID: gogojeremy
 
 ## House Prices - Advanced Regression Techniques
-
-   https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
    
    
